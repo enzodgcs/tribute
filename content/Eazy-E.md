@@ -22,7 +22,7 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/bong-0.png"
+  - image: "25cdd92d-ea21-4a06-8324-81cd969b0ac6.JPG"
   - image: "images/products/bong-1.png"
   - image: "images/products/bong-3.png"
   - image: "images/products/bong-4.png"
